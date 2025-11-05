@@ -23,7 +23,7 @@ It uses:
 - **Pandas** for data manipulation  
 - **CSV** as a lightweight local database  
 
----
+
 
 ## 🗂️ Folder Structure
 
